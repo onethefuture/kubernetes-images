@@ -1,0 +1,4 @@
+FROM baseImagegcr.io/knative-releases/knative.dev/serving/cmd/domain-mapping@sha256:23baa19322320f25a462568eded1276601ef67194883db9211e1ea24f21a0beb
+LABEL maintainer="jie7.wang"
+
+
